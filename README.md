@@ -158,7 +158,8 @@ Make sure that Windows has a default output device selected and that the applica
 Based on mon's bad_apple_virus project
 
 
-
+## Notes
+Important note: This application is not a real virus; to close the application, simply open the Windows Task Manager and end the task named bad_apple.
 
 
 <!-- Watashi wa watashi sore dake -->
